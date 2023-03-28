@@ -65,7 +65,7 @@ export function InfoBoard(props: MeshProps) {
             target="_blank"
             rel="noopener"
           >
-            Manoj Bahuguna
+            FineBoy0407
           </a>
         </h1>
 
@@ -74,20 +74,20 @@ export function InfoBoard(props: MeshProps) {
         <p>
           <a
             style={{ color: "#fffd", marginRight: 16 }}
-            href="https://monob.in"
+            href="https://github.com/fineboy0407"
             target="_blank"
             rel="noopener"
           >
-            monob.in
+            github
           </a>
 
           <a
             style={{ color: "#fffd" }}
-            href="https://linkedin.com/in/BahugunaManoj"
+            href=""
             target="_blank"
             rel="noopener"
           >
-            linkedin.com/in/BahugunaManoj
+            Thank you
           </a>
         </p>
       </Html>
